@@ -26,3 +26,5 @@ namespace TestProject1
         public String Action { get; set; }
     }
 }
+
+// Git practice - Employee model
