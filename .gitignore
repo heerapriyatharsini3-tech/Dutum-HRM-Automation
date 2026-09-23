@@ -2,5 +2,6 @@
 bin/
 obj/
 TestResults/
-Reports/
+Reports/*
+!Reports/*.cs
 Screenshots/
